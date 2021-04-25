@@ -1,0 +1,15 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Github User</string>
+    <string name="search">search…</string>
+    <string name="change_language_settings">change languange</string>
+    <string name="username">username</string>
+    <string name="location">Location</string>
+    <string name="_100_repository">100</string>
+    <string name="repository">Repository</string>
+    <string name="icon_loc">icon_loc</string>
+    <string name="company">company</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
